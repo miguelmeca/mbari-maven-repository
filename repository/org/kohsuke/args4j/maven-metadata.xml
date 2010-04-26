@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata>
+<?xml version="1.0" encoding="UTF-8"?><metadata>
   <groupId>org.kohsuke</groupId>
   <artifactId>args4j</artifactId>
   <version>2.0.7</version>
@@ -7,6 +6,6 @@
     <versions>
       <version>2.0.7</version>
     </versions>
-    <lastUpdated>20100426182408</lastUpdated>
+    <lastUpdated>20100426183727</lastUpdated>
   </versioning>
 </metadata>
