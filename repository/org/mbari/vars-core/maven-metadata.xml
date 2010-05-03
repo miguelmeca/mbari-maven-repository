@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+  <groupId>org.mbari</groupId>
+  <artifactId>vars-core</artifactId>
+  <version>5.1</version>
+  <versioning>
+    <versions>
+      <version>5.1</version>
+    </versions>
+    <lastUpdated>20100503204537</lastUpdated>
+  </versioning>
+</metadata>
