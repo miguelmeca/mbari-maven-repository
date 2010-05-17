@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>net.java.dev.groovychart</groupId>
+    <artifactId>groovychart</artifactId>
+    <packaging>jar</packaging>
+    <version>groovychart-0.1BETA</version>
+    <name>GroovyChart</name>
+    <url>https://groovychart.dev.java.net/</url>
+    <dependencies>
+        <dependency>
+            <groupId>jfree</groupId>
+            <artifactId>jfreechart</artifactId>
+            <version>1.0.13</version>
+        </dependency>
+    </dependencies>
+</project>
