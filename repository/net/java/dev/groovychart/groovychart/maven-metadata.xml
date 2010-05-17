@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.java.dev.groovychart</groupId>
+  <artifactId>groovychart</artifactId>
+  <version>0.1BETA</version>
+  <versioning>
+    <versions>
+      <version>0.1BETA</version>
+    </versions>
+    <lastUpdated>20100517164300</lastUpdated>
+  </versioning>
+</metadata>
