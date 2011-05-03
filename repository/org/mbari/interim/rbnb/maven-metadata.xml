@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.mbari.interim</groupId>
+  <artifactId>rbnb</artifactId>
+  <versioning>
+    <release>V3.2B5</release>
+    <versions>
+      <version>V3.2B5</version>
+    </versions>
+    <lastUpdated>20110503040214</lastUpdated>
+  </versioning>
+</metadata>
