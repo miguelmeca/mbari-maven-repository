@@ -4,8 +4,9 @@
   <artifactId>siam-test-instr1</artifactId>
   <versioning>
     <versions>
+      <version>0.0.1rmi-SNAPSHOT</version>
       <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20110710181306</lastUpdated>
+    <lastUpdated>20110724035345</lastUpdated>
   </versioning>
 </metadata>
