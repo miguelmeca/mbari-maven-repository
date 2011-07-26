@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- =======================================================================
+        Maven Project Configuration File
+     ======================================================================= -->
+  <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>edu.ucar</groupId>
+    <artifactId>netcdf-parent</artifactId>
+    <version>4.2.26</version>
+  </parent>
+
+  <!-- ===========================================================
+           Module Description
+       =========================================================== -->
+  <groupId>edu.ucar</groupId>
+  <artifactId>bufr</artifactId>
+  <packaging>jar</packaging>
+  <version>4.2.26</version>
+  <name>BUFR tables</name>
+  <description>
+    BUFR tables for the NetCDF library.
+  </description>
+  <url>http://www.unidata.ucar.edu/software/netcdf-java/</url>
+
+  <developers>
+    <developer>
+      <name>John Caron</name>
+      <organization>UCAR/UNIDATA</organization>
+      <organizationUrl>http://www.unidata.ucar.edu/</organizationUrl>
+      <roles>
+        <role>Java Developer</role>
+      </roles>
+    </developer>
+  </developers>
+
+  <!-- ===========================================================
+           Dependencies
+       =========================================================== -->
+
+  <dependencies>
+     <dependency>
+       <groupId>edu.ucar</groupId>
+       <artifactId>netcdf</artifactId>
+       <version>${project.version}</version>
+     </dependency>
+     <dependency>
+      <groupId>org.jdom</groupId>
+      <artifactId>jdom</artifactId>
+      <scope>provided</scope>
+    </dependency>
+      <dependency>
+        <groupId>org.slf4j</groupId>
+        <artifactId>slf4j-api</artifactId>
+        <version>1.5.6</version>
+      </dependency>
+  </dependencies>
+
+  <build>
+    <resources>
+      <resource>
+        <directory>src/main</directory>
+        <includes>
+          <include>resources/**</include>
+        </includes>
+      </resource>
+    </resources>
+  </build>
+
+</project>
