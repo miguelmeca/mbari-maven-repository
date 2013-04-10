@@ -3,7 +3,7 @@
   <groupId>org.mbari</groupId>
   <artifactId>mbarix4j</artifactId>
   <versioning>
-    <release>1.9.1</release>
+    <release>1.9.2</release>
     <versions>
       <version>1.8.2</version>
       <version>1.5</version>
@@ -13,7 +13,8 @@
       <version>1.8.4</version>
       <version>1.9.0</version>
       <version>1.9.1</version>
+      <version>1.9.2</version>
     </versions>
-    <lastUpdated>20130410190553</lastUpdated>
+    <lastUpdated>20130410203708</lastUpdated>
   </versioning>
 </metadata>
