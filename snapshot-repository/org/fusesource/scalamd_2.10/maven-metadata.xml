@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.fusesource</groupId>
+  <artifactId>scalamd_2.10</artifactId>
+  <version>1.6-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>1.6-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130916161430</lastUpdated>
+  </versioning>
+</metadata>
