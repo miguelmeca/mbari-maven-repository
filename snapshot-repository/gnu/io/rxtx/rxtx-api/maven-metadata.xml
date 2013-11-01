@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>gnu.io.rxtx</groupId>
+  <artifactId>rxtx-api</artifactId>
+  <versioning>
+    <versions>
+      <version>2.2-stabilize-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20131101171107</lastUpdated>
+  </versioning>
+</metadata>
