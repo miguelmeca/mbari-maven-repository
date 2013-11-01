@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>gnu.io.rxtx</groupId>
+  <artifactId>librxtxSerial-osx-x86_64</artifactId>
+  <version>2.2-stabilize-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20131101.171236</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20131101171236</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jnilib</extension>
+        <value>2.2-stabilize-20131101.171236-1</value>
+        <updated>20131101171236</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.2-stabilize-20131101.171236-1</value>
+        <updated>20131101171236</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
