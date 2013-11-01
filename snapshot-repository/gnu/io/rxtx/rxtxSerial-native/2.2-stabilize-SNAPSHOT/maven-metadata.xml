@@ -15,6 +15,12 @@
         <value>2.2-stabilize-20131101.171146-1</value>
         <updated>20131101171146</updated>
       </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>zip</extension>
+        <value>2.2-stabilize-20131101.171146-1</value>
+        <updated>20131101171146</updated>
+      </snapshotVersion>
     </snapshotVersions>
   </versioning>
 </metadata>
