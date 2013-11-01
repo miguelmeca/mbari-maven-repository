@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>gnu.io.rxtx</groupId>
+  <artifactId>cross-toolchain-wrapper</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20131101.171023</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20131101171023</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20131101.171023-1</value>
+        <updated>20131101171023</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
