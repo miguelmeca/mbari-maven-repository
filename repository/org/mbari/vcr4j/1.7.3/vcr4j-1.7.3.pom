@@ -53,12 +53,12 @@
         <dependency>
             <groupId>gnu.io.rxtx</groupId>
             <artifactId>rxtx-api</artifactId>
-            <version>2.2-stabilize-SNAPSHOT</version>
+            <version>2.2-20131101</version>
         </dependency>
         <dependency>
             <groupId>gnu.io.rxtx</groupId>
             <artifactId>rxtxSerial-java</artifactId>
-            <version>2.2-stabilize-SNAPSHOT</version>
+            <version>2.2-20131101</version>
         </dependency>
         <dependency>
             <groupId>com.sparetimelabs</groupId>
