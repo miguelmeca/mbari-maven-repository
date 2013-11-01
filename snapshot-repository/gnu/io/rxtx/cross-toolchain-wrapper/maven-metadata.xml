@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>gnu.io.rxtx</groupId>
+  <artifactId>cross-toolchain-wrapper</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20131101171029</lastUpdated>
+  </versioning>
+</metadata>
